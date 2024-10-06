@@ -1,7 +1,7 @@
 ---
 # Site settings
 site_name: Conference
-site_url: https://pioneershub.github.io/confernece/
+site_url: https://pioneershub.github.io/conference/
 site_author: Alexander Hendorf
 site_description: >-
   Template for organizing a volunteer-driven conference.
