@@ -1,43 +1,37 @@
 ---
-name: Deploy Documentation
-
+name: Deploy docs
 on:
   push:
     branches:
       - main
-    paths:
-      - "docs/**"
-      - ".github/workflows/docs.yml"
-      - "mkdocs.yml"
-      - "config.yml"
-      - "pixi.*"
-  pull_request:
-    branches:
-      - main
-    paths:
-      - "docs/**"
-      - ".github/workflows/docs.yml"
-      - "mkdocs.yml"
-      - "config.yml"
-      - "pixi.*"
-
+permissions:
+  contents: write
 jobs:
   deploy:
-    # Don't run on forks
-    if: github.repository == 'PioneersHub/confernce'
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - uses: prefix-dev/setup-pixi@v0.8.1
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
         with:
-          environments: default
-
-      - name: Configure Git user
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-
-      - name: Deploy with mike 🚀
-        run: |
-          pixi run -e default mike deploy --push --update-aliases $RELEASE_VERSION latest
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material["imaging"]
+      - run: pip install mkdocs
+      - run: pip install "pymdown-extensions>=10.11.2, <11"
+      - run: pip install "mkdocs-glightbox>=0.4.0, <0.5"
+      - run: pip install "mkdocs-open-in-new-tab>=1.0.5, <2"
+      - run: pip install omegaconf
+      - name: Build site
+        run: mkdocs build
+      - name: Deploy to GitHub pages
+        run: mkdocs gh-deploy --force
