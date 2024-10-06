@@ -99,6 +99,7 @@ plugins:
   - search
   - tags
   - macros
+  - mike
 
 extra:
   consent:
