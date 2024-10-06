@@ -34,22 +34,6 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build-docs:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
-
-      - uses: prefix-dev/setup-pixi@v0.8.1
-        with:
-          environments: default
-
-      - name: Build docs for test
-        run: |
-          pixi run build-docs
-
   docs-release:
     # Don't run on forks
     if: github.repository == 'pioneershub/confernce' && (startsWith(github.event.ref, 'refs/tags/v') || github.event_name == 'workflow_dispatch' && startsWith(github.event.inputs.tag, 'v'))
