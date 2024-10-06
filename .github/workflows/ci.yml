@@ -30,6 +30,7 @@ jobs:
       - run: pip install "pymdown-extensions>=10.11.2, <11"
       - run: pip install "mkdocs-glightbox>=0.4.0, <0.5"
       - run: pip install "mkdocs-open-in-new-tab>=1.0.5, <2"
+      - run: pip install "mkdocs-macros-plugin>=1.2.0, <2"
       - run: pip install omegaconf
       - name: Build site
         run: mkdocs build
