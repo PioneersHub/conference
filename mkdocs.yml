@@ -1,0 +1,122 @@
+---
+site_name: Conference
+site_url: https://pioneershub.github.io/confernece/
+site_author: Alexander Hendorf
+site_description: >-
+  Template for organizing a volunteer-driven conference.
+# Repository
+repo_name: PioneersHub/conference
+repo_url: https://github.com/PioneersHub/conference
+
+#
+nav:
+  - About: index.md
+  - Mission: mission.md
+  - Preparation: preparation.md
+  - Committees:
+      - committees/index.md
+      - Code of Conduct: committees/code-of-conduct.md
+      - Communication: committees/communication.md
+      - Diversity: committees/diversity.md
+      - Experience: committees/experience.md
+      - Infrastructure: committees/infrastructure.md
+      - On-Site Operations: committees/on-site-ops.md
+      - Program: committees/program.md
+      - Steering: committees/steering.md
+      - Swag: committees/swag.md
+      - Video: committees/video.md
+      - Operational Models: committees/operational-model.md
+  - Guidelines:
+      - guidelines/index.md
+      - Program:
+        - Submissions: guidelines/submissions.md
+      - Diversity:
+        - Grant-Applications: guidelines/grant-applications.md
+        - Grants-Guidelines: guidelines/grants.md
+      - Video:
+        - Video-Guidelines: guidelines/video.md
+  - Office: office.md
+  - Code of Conduct:
+      - Code of Conduct: code-of-conduct/index.md
+      - Enforcement Procedures: code-of-conduct/enforcement-procedures.md
+      - Reporting Incidents: code-of-conduct/reporting.md
+  - Zen: zen.md
+  - installation.md
+  - License: license.md
+
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/users-rays
+    annotation: material/arrow-right-circle
+  language: en
+  palette:
+    primary: custom
+  features:
+    - content.tooltips
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.tabs
+    - navigation.path
+  site_url: https://pioneershub.github.io/pytube/
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - admonition
+  - pymdownx.magiclink
+  - pymdownx.betterem
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: "¤"
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - social:
+      cards_layout_options:
+        background_color: "#ffffff"
+        color: "#000000"
+  - search
+  - tags
+  - macros
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+
+hooks:
+  - scripts/extend_config.py
+  - scripts/hook_add_logo_to_social_cards.py
+
+# Copyright
+copyright: >
+  Copyright &copy; 2024 Pioneers Hub gGmbH –
+  <a href="#__consent">Change cookie settings</a>

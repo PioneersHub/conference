@@ -1,0 +1,122 @@
+---
+# Site settings
+site_name: Conference
+site_url: https://pioneershub.github.io/confernece/
+site_author: Alexander Hendorf
+site_description: >-
+  Template for organizing a volunteer-driven conference.
+
+# Repository at GitHub
+repo_name: PioneersHub/conference
+repo_url: https://github.com/PioneersHub/conference
+
+# Copyright for footer
+copyright:
+  start_year: 2024
+  owner: Pioneers Hub gGmbH
+
+# Event details
+event:
+  event_name: "THE EVENT"
+  start_date: "2025-04-23"
+  end_date: "2025-04-26"
+  location: "Somewhere, Germany"
+  apply_url: "https://example.com/apply"
+  contact_email: "info@contact.org"
+
+  # Code of Conduct Team
+  coc_email: coc-reports@our-community.org
+  team_members: |
+    - Avery Sinclair
+    - Morgan Ellis
+    - Rowan Bennett
+    - Taylor Monroe
+  backup_team_members: |
+    - Jordan Reese email@domain.com
+    - Casey Whitman email@domain.com
+
+committees:
+  # Committee names must match the headers in the committees.md file
+  # Expected workloads and milestones for each committee
+  "coc":
+    requirements:
+      attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "During the conference"
+      end: "Until all reports have been resolved"
+  "communication":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "diversity":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "experience":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "infrastructure":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "on_site_experience":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "on_site_operations":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "program":
+    attend_conference: false
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "remote_experience":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "steering":
+    attend_conference: true
+    workload:
+      start: "Ten hours per week during review and selection (3-4 weeks)."
+      peak: "6 months before the conference until the conference."
+      end: "end-date-here"
+  "swag":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "peak-dates-here"
+      end: "end-date-here"
+  "video":
+    attend_conference: true
+    workload:
+      start: "start-date-here"
+      peak: "During the conference"
+      end: "Until all videos have been released"
+
+# custom config for social cards customisation
+social_cards:
+  dirs:
+    # relative paths from the repository root
+    cache_dir: "./.cache/plugin/social"
+    site_dir: "./site/assets/images/social"
+    # convention, rename your logo accordingly
+  logo_path: "./docs/assets/images/social_card_logo.png"
