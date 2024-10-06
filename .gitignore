@@ -5,3 +5,4 @@
 site
 .idea
 .cache
+.DS_Store
