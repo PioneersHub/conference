@@ -120,17 +120,7 @@ To deploy:
 mkdocs gh-deploy
 ```
 
-MacOS-Error
-> no library called "cairo-2" was found…
-
-can be fixed with:
-
-```
-export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
-mkdocs gh-deploy
-```
-
-before running `mkdocs gh-deploy` to install the cairo library.
+The repository also contains a GitHub action that automatically deploys the documentation to GitHub pages.
 
 ## Versioning Schema
 

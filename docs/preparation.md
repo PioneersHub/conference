@@ -4,6 +4,10 @@ hide:
 ---
 # Preparation
 
+!!! warning
+    This document is a work in progress. Please check back later for updates.
+
+
 - Call for volunteers
 - Reach out to last years team who wants to stay on
 - Define roles and responsibilities

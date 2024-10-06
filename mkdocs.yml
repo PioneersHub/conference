@@ -29,10 +29,16 @@ nav:
   - Guidelines:
       - guidelines/index.md
       - Program:
+        - Call for Proposals: guidelines/call-for-proposals.md
         - Submissions: guidelines/submissions.md
+        - Reviewer Guidelines: guidelines/reviewers.md
+        - Community Voting: guidelines/community-voting.md
       - Diversity:
         - Grant-Applications: guidelines/grant-applications.md
         - Grants-Guidelines: guidelines/grants.md
+      - Volunteers:
+        - Volunteers: guidelines/volunteers.md
+        - Call for Volunteers: guidelines/volunteers-call.md
       - Video:
         - Video-Guidelines: guidelines/video.md
   - Office: office.md
@@ -70,6 +76,11 @@ markdown_extensions:
   - admonition
   - pymdownx.magiclink
   - pymdownx.betterem
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.snippets:
       check_paths: true
   - pymdownx.superfences

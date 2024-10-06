@@ -1,3 +1,7 @@
 # pixi environments
 .pixi
 *.egg-info
+
+site
+.idea
+.cache

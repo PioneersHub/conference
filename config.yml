@@ -18,11 +18,28 @@ copyright:
 # Event details
 event:
   event_name: "THE EVENT"
-  start_date: "2025-04-23"
-  end_date: "2025-04-26"
+  start_date: "23.04.2025"
+  end_date: "25.04.2025"
+  day_before: "22.04.2025"
+  month: "April"
+  year: "2025"
   location: "Somewhere, Germany"
   apply_url: "https://example.com/apply"
   contact_email: "info@contact.org"
+  cfp_open: "01.01.2025"
+  cfp_close: "01.02.2025"
+  review_deadline: "15.02.2025"
+  cfp_speakers_notifications: "01.03.2025"
+  cfp_link: "https://pretlax.com/"
+  financial_aid_open: "01.01.2025"
+  financial_aid_close: "01.02.2025"
+  financial_aid_notifications: "01.03.2025"
+  call_for_committee_open: "01.10.2024"
+  call_for_committee_close: "01.11.2024"
+  call_for_volunteers_open: "01.01.2025"
+  call_for_volunteers_close: "01.02.2025"
+  ticket_sales_open: "01.01.2025"
+  ticket_sales_late_bird: "01.03.2025"
 
   # Code of Conduct Team
   coc_email: coc-reports@our-community.org
