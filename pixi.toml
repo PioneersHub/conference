@@ -1,5 +1,7 @@
 [project]
-authors = ["Alexander CS Hendorf <alexander@pioneershub.org>"]
+authors = [
+    "Alexander CS Hendorf <alexander@pioneershub.org>",
+]
 channels = ["conda-forge"]
 description = "Template for organizing a volunteer-driven conference"
 name = "conference"
