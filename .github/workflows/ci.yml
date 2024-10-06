@@ -21,12 +21,6 @@ on:
       - "mkdocs.yml"
       - "config.yml"
       - "pixi.*"
-  workflow_dispatch:
-    inputs:
-      tag:
-        description: "Tag to deploy"
-        required: true
-        default: "v0.0.0"
 
 jobs:
   deploy:
