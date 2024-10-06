@@ -59,7 +59,7 @@ A team of four committee members from diverse backgrounds and experiences.
 
 - **Assist with Reimbursements:**  
   Help collect receipts from grantees to facilitate the reimbursement process
-  with [Finance](../office.md#finance-budget).
+  with [Finance](../office/office.md#finance-budget).
 
 - **Collaborate with Other Communities:**  
   Work with community partners like [PyLadies](https://pyladies.org) and reach out to other communities to ensure

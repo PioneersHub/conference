@@ -41,7 +41,16 @@ nav:
         - Call for Volunteers: guidelines/volunteers-call.md
       - Video:
         - Video-Guidelines: guidelines/video.md
-  - Office: office.md
+  - Office:
+      - office/index.md
+      - Communication: office/communication.md
+      - Finance & Budget: office/finance-budget.md
+      - Legal & Taxes: office/legal-taxes.md
+      - User Account Management: office/user-accounts.md
+      - Sponsoring: office/sponsoring.md
+      - Strategy: office/strategy.md
+      - Supplies: office/supplies.md
+      - Ticketing: office/ticketing.md
   - Code of Conduct:
       - Code of Conduct: code-of-conduct/index.md
       - Enforcement Procedures: code-of-conduct/enforcement-procedures.md
