@@ -1,3 +1,5 @@
+[![Deploy Docs](https://github.com/PioneersHub/conference/actions/workflows/ci.yml/badge.svg)](https://github.com/PioneersHub/conference/actions/workflows/ci.yml)
+
 # Conference
 
 Playbook how to run a volunteer-driven conference
