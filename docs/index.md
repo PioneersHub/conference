@@ -1,4 +1,5 @@
 ---
+title: Volunteer-Driven Conference Playbook
 hide:
   - navigation
 ---
