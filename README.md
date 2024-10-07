@@ -8,30 +8,7 @@ Playbook how to run a volunteer-driven conference
 
 Fork this repository and adapt the content to your needs.
 
-You need to add your event or conference name and contacts in the configuration.
-
-Configure `config.yml` to your needs:
-
-```yaml
-event:
-  event_name: "THE EVENT"
-  coc_email: coc-reports@our-community.org
-  team_members: |
-    - Avery Sinclair
-    - Morgan Ellis
-    - Rowan Bennett
-    - Taylor Monroe
-  backup_team_members: |
-    - Jordan Reese email@domain.com
-    - Casey Whitman email@domain.com
-```
-
-add a custom logo to the social cards in the right bottom corner:
-
-```yaml
-social_cards:
-  logo_path: "./docs/assets/images/social_card_logo.png"
-```
+👉 See the [full documentation](https://pioneershub.github.io/conference/)
 
 ## Attribution
 
