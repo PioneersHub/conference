@@ -1,3 +1,7 @@
+---
+title: Video-Guidelines
+icon: fontawesome/solid/photo-film
+---
 # Video-Guidelines
 
 !!! warning

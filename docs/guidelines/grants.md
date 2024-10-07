@@ -1,3 +1,7 @@
+---
+title: Grants
+icon: fontawesome/solid/hand-holding-heart
+---
 # Grants
 
 !!! warning

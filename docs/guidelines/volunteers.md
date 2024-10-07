@@ -1,3 +1,7 @@
+---
+title: Volunteer Roles & Responsibility
+icon: fontawesome/solid/user-ninja
+---
 # Volunteer Roles & Responsibility
 
 !!! note
@@ -20,7 +24,7 @@ We have a dedicated private **\#volunteers2024-on-site** channel for volunteersâ
 via your smartphone.
 
 If you havenâ€™t already joined, please use the following link and include your **full name** so we can add you to the
-dedicated channel: [==JOIN SERVER===](ADD-URL)
+dedicated channel: [==JOIN SERVER===](#)
 
 ---
 

@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Installation & Set-Up
+# :fontawesome-solid-building-user: Installation & Set-Up
 
 ## How to Use the Template
 

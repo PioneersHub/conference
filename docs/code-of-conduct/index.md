@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+icon: fontawesome/solid/shield-halved
+---
 # {{config.extra.event.event_name}} Code of Conduct
 
 {{config.extra.event.event_name}} is composed of members from diverse backgrounds, skills, and experiences, united

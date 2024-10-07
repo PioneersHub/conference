@@ -3,7 +3,7 @@ title: Volunteer-Driven Conference Playbook
 hide:
   - navigation
 ---
-# Volunteer-Driven Conference Playbook
+# :fontawesome-solid-book-atlas: Volunteer-Driven Conference Playbook
 
 This playbook helps to organize a conference with a team of volunteers.
 

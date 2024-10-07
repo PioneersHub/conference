@@ -1,3 +1,7 @@
+---
+title: Code of Conduct Enforcement Procedures
+icon: fontawesome/solid/scale-balanced
+---
 # {{config.extra.event.event_name}} Code of Conduct Enforcement Procedures
 
 This document summarizes the procedures the {{config.extra.event.event_name}} staff uses to enforce the Code of

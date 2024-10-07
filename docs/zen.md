@@ -1,8 +1,10 @@
 ---
+title: Zen for Community Organizers
+icon: fontawesome/solid/yin-yang
 hide:
   - navigation
 ---
-# Zen for Community Organizers
+# :fontawesome-solid-yin-yang: Zen for Community Organizers
 
 [Source](https://github.com/PioneersHub/Zen-for-Community-Organizers)
 

@@ -1,4 +1,4 @@
-# General Information
+# :fontawesome-solid-users-gear: Committees - General Information
 
 The committees are the driving force behind the conference, responsible for shaping its many facets. We’re seeking
 passionate individuals who want to contribute to its success.
@@ -12,7 +12,7 @@ field or eager to learn and grow with us, there’s a place for you on our team.
 
 Please review the committee descriptions to find the one that best fits your interests and skills.
 
-The conference is realized by [volunteer organizers](index.md) and the [confernce office](../office/office.md).
+The conference is realized by [volunteer organizers](index.md) and the [confernce office](../office/index.md).
 
 While the volunteers are responsible for the conference content, authenticity and attendees' experience,
 the backoffice is responsible for the organization (sponsoring, finances, budget, contracts, etc.).

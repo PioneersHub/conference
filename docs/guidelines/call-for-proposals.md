@@ -1,3 +1,7 @@
+---
+title: Call for Proposals
+icon: fontawesome/solid/paper-plane
+---
 # Call for Proposals: {{config.extra.event.event_name}}
 
 **Conference Dates: {{config.extra.event.start_date}} - {{config.extra.event.end_date}}**

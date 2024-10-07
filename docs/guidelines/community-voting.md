@@ -1,3 +1,7 @@
+---
+title: Community Voting
+icon: fontawesome/solid/person-booth
+---
 # Community Voting
 
 !!! warn "This document is a work in progress"

@@ -1,3 +1,7 @@
+---
+title: Reporting Code of Conduct Incidents
+icon: fontawesome/solid/flag
+---
 # {{config.extra.event.event_name}} Procedures for Reporting Code of Conduct Incidents
 
 If you believe someone is in physical danger, including from themselves, the most important thing is to get that person

@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# About
+# :fontawesome-solid-rocket: About
 
 ## Common Mission Goals for Volunteers
 

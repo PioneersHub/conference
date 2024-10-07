@@ -1,3 +1,7 @@
+---
+title: Call for Volunteers
+icon: fontawesome/solid/people-roof
+---
 # Call for Volunteers
 
 !!! warning "Note"

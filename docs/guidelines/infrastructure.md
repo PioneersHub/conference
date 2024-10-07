@@ -1,3 +1,7 @@
+---
+title: Reviewer Guidelines
+icon: fontawesome/solid/trowel-bricks
+---
 # Infrastructure Guidelines
 
 !!! warning

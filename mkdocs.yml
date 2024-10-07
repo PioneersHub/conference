@@ -36,6 +36,8 @@ nav:
       - Diversity:
         - Grant-Applications: guidelines/grant-applications.md
         - Grants-Guidelines: guidelines/grants.md
+      - Infrastructure:
+        - Infrastructure: guidelines/infrastructure.md
       - Volunteers:
         - Volunteers: guidelines/volunteers.md
         - Call for Volunteers: guidelines/volunteers-call.md

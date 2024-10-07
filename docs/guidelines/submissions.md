@@ -1,3 +1,7 @@
+---
+title: Submission
+icon: fontawesome/solid/envelopes-bulk
+---
 # Submission
 
 !!! warning

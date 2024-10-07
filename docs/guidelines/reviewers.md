@@ -1,3 +1,7 @@
+---
+title: Reviewer Guidelines
+icon: fontawesome/solid/clipboard-check
+---
 # Reviewer Guidelines: {{config.extra.event.event_name}}
 
 !!! warning

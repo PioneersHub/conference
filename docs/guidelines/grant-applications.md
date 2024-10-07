@@ -1,3 +1,7 @@
+---
+title: Grant-Applications
+icon: fontawesome/solid/hands-holding-circle
+---
 # Grant-Applications
 
 !!! warning
