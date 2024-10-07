@@ -12,8 +12,9 @@ Fork this repository and adapt the content to your needs.
 
 ## Attribution
 
-This document draws on years of experience from organizing [PyCon DE](https://de.pycon.org/)
-and [PyData Berlin](https://berlin.pydata.org) conferences.
+This document draws on years of experience from organizing of running and co-organizing events like 
+[PyCon DE](https://de.pycon.org/), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org) 
+and [PyData Berlin](https://berlin.pydata.org).
 
 # TODO: Tag main contributors
 
