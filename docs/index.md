@@ -1,5 +1,5 @@
 ---
-title: 📘 Your Guide to Organizing an Amazing Community Conference
+title: Your Guide to Organizing an Amazing Community Conference
 hide:
   - navigation
 ---
