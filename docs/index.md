@@ -1,51 +1,60 @@
 ---
-title: Volunteer-Driven Conference Playbook
+title: 📘 Your Guide to Organizing an Amazing Community Conference
 hide:
   - navigation
 ---
-# :fontawesome-solid-book-atlas: Volunteer-Driven Conference Playbook
 
-This playbook helps to organize a conference with a team of volunteers.
+# :fontawesome-solid-book-atlas: Your Guide to Organizing an Amazing Community Conference
+
+## What's This All About?
+
+Welcome to the world of community-driven conferences! If you're new here, don't worry – this guide is for you. We've
+created this playbook to help anyone, regardless of experience, understand how to organize a conference that's powered
+by volunteers and fueled by passion.
+
+## Why a Playbook?
+
+Organizing a conference might sound intimidating, but it doesn't have to be! This playbook breaks down the process into
+manageable steps. It's based on years of experience from events like PyCon DE, EuroPython, EuroSciPy, and PyData Berlin.
+We're sharing our knowledge so you can create an amazing event without reinventing the wheel.
+
+## What's Inside?
+
+1. **Getting Started**: Everything you need to kick off your conference planning
+2. **Our Mission**: Understanding the heart of a community-driven conference
+3. **Building Your Team**: How to gather and organize your volunteer squad
+4. **Calling All Helpers**: Tips for attracting and engaging volunteers
+5. **Ground Rules**: Creating a positive environment for everyone
+6. **Behind the Scenes**: Setting up the operational backbone of your conference
+7. **Words of Wisdom**: Key principles for smooth organizing
+
+## How to Use This Guide
+
+Whether you're a first-time organizer or a seasoned pro, this playbook is designed to help you at every stage. Feel free
+to jump to the sections most relevant to you, or read through from start to finish for a comprehensive overview.
+
+## Let's Get Started!
+
+Ready to dive in? Check out our [Getting Started Guide](installation.md) to take your first steps in conference
+organizing.
+
+## A Big Thank You
 
 It is based on the experience of running and co-organizing events like [PyCon DE](https://de.pycon.org/),
 [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org) and [PyData Berlin](https://berlin.pydata.org).
 
-## Why write a playbook?
+This playbook wouldn't exist without the hard work and dedication of countless volunteers who've organized conferences
+over the years. Their experiences and insights have been invaluable in creating this resource.
 
-Volunteer-driven conferences are a great way to bring people together and share knowledge.
-
-They are also a lot of work and require a lot of coordination.
-
-This playbook is supposed to give a starting point and provide a structure for organizing a conference.
-
-## Table of Contents
-
-1. Preparations
-2. Mission statement
-3. Committees
-4. Call for Volunteers
-5. Guidelines
-6. Office
-7. Zen for Conference Organizers
+❤️ We're grateful to everyone who has contributed to making these events better year after year.
 
 
-## Get Started
+## Who We Are
 
-See the [Installation & Set-Up](installation.md) guide to get started.
+This playbook is maintained by [Pioneers Hub](https://www.pioneershub.org/en/), an organization dedicated to building
+and nurturing communities of experts in tech and research. Our goal is to facilitate knowledge sharing, collaboration,
+and innovation.
 
-## Attribution
+![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){ style="width:50%" }
 
-This template draws on years of experience and material created organizing [PyCon DE](https://de.pycon.org/),
-[EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org) and [PyData Berlin](https://berlin.pydata.org)
-conferences. 
-
-:octicons-heart-fill-24:{ .heart } Thanks to everyone who contributed to these events over the years and tirelessly worked to make them better every year.
-
-# TODO: Tag main contributors of these conferences
-
-## Realization
-
-[Pioneers Hub](https://www.pioneershub.org/en/) helps to build and maintain thriving communities of experts in tech and
-research to share knowledge, collaborate and innovate together.
-
-![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){: style="width:50%"}
+Together, let's create conferences that inspire, educate, and bring people together!
