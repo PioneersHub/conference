@@ -1,5 +1,5 @@
 ---
-title: Your Guide to Organizing an Amazing Community Conference
+title: Your Guide for Amazing Community Confs
 hide:
   - navigation
 ---
@@ -85,8 +85,17 @@ These awesome people have contributed to content this documentation was built up
 [Theodore Meynard](https://github.com/orgs/PYCONDE/people/terezaif): Diversity, Swag;
 [Valentina Scipione](https://github.com/astrovale): On-Site;
 
-We missed mentioning you?
-Shame on us, let's fix this: [Please open a pull request](../CONTRIBUTING.md#acknowledging-past-contributors).
+
+We missed mentioning you?   
+We value all contributions to this project, including those made in the past. If you have contributed to
+community-driven conferences or this playbook in the past and would like to be acknowledged:
+
+1. Open a pull request titled "Add [Your Name] to Contributors".
+2. In the pull request description, briefly describe your contribution. For example:
+    - "I helped organize 2022 in program"
+    - "I contributed the section on volunteer management of this playbook"
+
+We'll review your pull request and merge it if appropriate.
 
 
 ## Who We Are

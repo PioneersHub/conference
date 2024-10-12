@@ -1,4 +1,7 @@
-# :fontawesome-solid-users-gear: Committees - General Information
+---
+icon: fontawesome/solid/people-group
+---
+# :fontawesome-solid-people-group: Committees - General Information
 
 The committees are the driving force behind the conference, responsible for shaping its many facets. We’re seeking
 passionate individuals who want to contribute to its success.

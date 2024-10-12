@@ -1,3 +1,7 @@
+---
+title: Office Responsibilities
+icon: fontawesome/solid/building-ngo
+---
 # Overview
 
 The Office is the backbone of the conference’s operations, responsible for handling essential administrative tasks. This
