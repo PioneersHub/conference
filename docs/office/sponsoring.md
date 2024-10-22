@@ -2,6 +2,7 @@
 title: Sponsoring
 icon: fontawesome/solid/money-bills
 ---
+
 # Sponsoring
 
 Sponsors are a key part of making the conference possible, and the Office team takes care of all sponsor-related

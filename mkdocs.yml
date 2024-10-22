@@ -13,6 +13,7 @@ nav:
   - About: index.md
   - Mission: mission.md
   - Preparation: preparation.md
+  - Timeline: timeline.md
   - Committees:
       - committees/index.md
       - Code of Conduct: committees/code-of-conduct.md
@@ -38,6 +39,8 @@ nav:
         - Grants-Guidelines: guidelines/grants.md
       - Infrastructure:
         - Infrastructure: guidelines/infrastructure.md
+      - Sponsoring:
+        - Sponsoring: guidelines/sponsoring.md
       - Volunteers:
         - Volunteers: guidelines/volunteers.md
         - Call for Volunteers: guidelines/volunteers-call.md
@@ -58,6 +61,7 @@ nav:
       - Enforcement Procedures: code-of-conduct/enforcement-procedures.md
       - Reporting Incidents: code-of-conduct/reporting.md
   - Zen: zen.md
+  - Help: help.md
   - installation.md
   - License: license.md
 
