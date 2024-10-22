@@ -1,6 +1,6 @@
 [![Deploy Docs](https://github.com/PioneersHub/conference/actions/workflows/ci.yml/badge.svg)](https://github.com/PioneersHub/conference/actions/workflows/ci.yml)
 
-# Conference
+# Conference TEMPLATE
 
 Playbook how to run a volunteer-driven conference
 
@@ -10,10 +10,30 @@ Fork this repository and adapt the content to your needs.
 
 👉 See the [full documentation](https://pioneershub.github.io/conference/)
 
+## How to Use
+
+On the [GitHub page of this repository](https://github.com/PioneersHub/conference),
+click on the "Use this template" button at the upper right side.
+
+Select where you want to create the repository and give it a custom name, e.g. "conference3000".
+Once the repository is created, you can clone it to your local machine and start editing the content.
+
+### Setting Up Your Conference
+
+These parts of the repository need to be customized to your conference:
+
+##### GitHub
+
+- [ ] Update the `README.md` with your conference name and description. Remove anything that is not relevant to your
+  conference. We appreciate if you keep the attribution section.
+- [ ] Update the `mkdocs.yml` with your conference name and description.
+- [ ] Update the `docs/` folder with your conference content.
+-
+
 ## Attribution
 
-This document draws on years of experience from organizing of running and co-organizing events since like 
-[PyCon DE](https://de.pycon.org/), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org) 
+This document draws on years of experience from organizing of running and co-organizing events since like
+[PyCon DE](https://de.pycon.org/), [EuroPython](https://europython.eu), [EuroSciPy](https://euroscipy.org)
 and [PyData Berlin](https://berlin.pydata.org).
 
 These awesome people have contributed to content this documentation was built upon:
@@ -67,3 +87,16 @@ MKDocs is used to generate the documentation.
 
 Extra features are added with the Material for MkDocs theme.  
 [MKDocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+## Community Playbooks by Pioneers Hub
+
+This playbook was created by [Pioneers Hub](https://www.pioneershub.org/en/) based on the content of many awesome
+people.
+Pioneers Hub is an organization dedicated to building and nurturing communities of experts in tech and research.
+The goal is to facilitate knowledge sharing, collaboration, and innovation.
+
+Check out the [Pioneers Hub GitHub repository](https://github.com/PioneersHub) to check more tools to build and maintain
+healthy communities.
+
+![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){ style="width:50%" }
+
