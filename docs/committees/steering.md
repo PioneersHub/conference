@@ -57,6 +57,8 @@ the formation of committees, providing guidance, and ensuring initial milestones
 
 ### Timeline
 
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.steering.workload.average}}
+
 :fontawesome-regular-calendar:  **start:**{{config.extra.committees.steering.workload.start}}
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.steering.workload.peak}}
@@ -65,6 +67,6 @@ the formation of committees, providing guidance, and ensuring initial milestones
 
 ---
 
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

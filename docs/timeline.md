@@ -1,5 +1,8 @@
 # Event Timeline
 
+!!! warning "This is a sample timeline"
+    This is a sample timeline. Please update the timeline to match your event's schedule.
+
 ## Pre-Conference Phase
 
 :calendar: **{{config.extra.committees.program.workload.start}}** - Call for Proposals Opens

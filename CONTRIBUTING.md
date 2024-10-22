@@ -13,6 +13,13 @@ There are many ways you can contribute to this project:
 4. **Improving Documentation**: Help us make our docs clearer and more comprehensive.
 5. **Sharing Your Experience**: If you've organized a community-driven conference, your insights are invaluable!
 
+## General Guidelines
+ - We want to provide a concise and clear playbook. Please keep your contributions focused and to the point.
+ - We want to deliver depth but not overload the reader with details. 
+   Please keep your contributions concise and accessible.
+- We know balancing depth and conciseness can be challenging.
+  If you're unsure, feel free to open an issue to discuss your idea.
+
 ## Getting Started
 
 1. Fork the repository on GitHub.

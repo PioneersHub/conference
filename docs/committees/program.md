@@ -89,6 +89,9 @@ The Program Committee is one of the first committees to start working on the con
   changes
 
 ### Timeline
+
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.program.workload.average}}
+
 :fontawesome-regular-calendar: **start:**{{config.extra.committees.program.workload.start}} 
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.program.workload.peak}}  
@@ -97,6 +100,6 @@ The Program Committee is one of the first committees to start working on the con
 
 ---
 
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

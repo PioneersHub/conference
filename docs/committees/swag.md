@@ -64,6 +64,8 @@ Size-tables are required to collect the pre-orders from ticket purchases.
 
 ### Timeline
 
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.swag.workload.average}}
+
 :fontawesome-regular-calendar:  **start:**{{config.extra.committees.swag.workload.start}}
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.swag.workload.peak}}
@@ -72,6 +74,6 @@ Size-tables are required to collect the pre-orders from ticket purchases.
 
 ---
 
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

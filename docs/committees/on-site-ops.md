@@ -97,6 +97,9 @@ The workload varies depending on the phase of the conference:
   attendees.
 
 ### Timeline
+
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.on_site_operations.workload.average}}
+
 :fontawesome-regular-calendar:  **start:**{{config.extra.committees.on_site_operations.start}} 
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.on_site_operations.peak}}  
@@ -105,6 +108,6 @@ The workload varies depending on the phase of the conference:
 
 ---
 
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

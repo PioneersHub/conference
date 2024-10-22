@@ -2,7 +2,9 @@
 # Site settings
 site_name: Conference
 site_url: https://pioneershub.github.io/conference/
-site_author: Alexander Hendorf
+site_author: [
+  "Alexander Hendorf",
+]
 site_description: >-
   Template for organizing a volunteer-driven conference.
 
@@ -24,24 +26,31 @@ event:
   month: "April"
   year: "2025"
   location: "Somewhere, Germany"
-  apply_url: "https://example.com/apply"
+  # The URL for the Call for Committee application form
   contact_email: "info@contact.org"
+  # program
   cfp_open: "01.01.2025"
   cfp_close: "01.02.2025"
   review_deadline: "15.02.2025"
   cfp_speakers_notifications: "01.03.2025"
-  cfp_link: "https://pretlax.com/"
-  voting_url: "https://pretlax.com/"
+  cfp_link: "/to-be-announced/"
+  voting_url: "/to-be-announced/"
   voting_start: "02.02.2025 12:00 CET"
   voting_end: "15.25.2025 23:59 CET"
-  contact_program: "https://pycon.de/"
+  contact_program: "/to-be-announced/"
+  # diversity
   financial_aid_open: "01.01.2025"
   financial_aid_close: "01.02.2025"
   financial_aid_notifications: "01.03.2025"
+   # committees
   call_for_committee_open: "01.10.2024"
   call_for_committee_close: "01.11.2024"
+  apply_url_committees: "/to-be-announced/"
+  # volunteers
   call_for_volunteers_open: "01.01.2025"
   call_for_volunteers_close: "01.02.2025"
+  apply_url_volunteers: "/to-be-announced/"
+  # tickets
   ticket_sales_open: "01.01.2025"
   ticket_sales_late_bird: "01.03.2025"
 
@@ -63,60 +72,70 @@ committees:
     requirements:
       attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "start-date-here"
       peak: "During the conference"
       end: "Until all reports have been resolved"
   "communication":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "start-date-here"
       peak: "peak-dates-here"
       end: "end-date-here"
   "diversity":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "start-date-here"
       peak: "peak-dates-here"
       end: "end-date-here"
   "experience":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "start-date-here"
       peak: "peak-dates-here"
       end: "end-date-here"
   "infrastructure":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "start-date-here"
       peak: "peak-dates-here"
       end: "end-date-here"
   "on_site_operations":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "Three months before conference, 1-2 hours a week"
       peak: "Four weeks before the conference 4-5 hours per week. During conference - all day"
       end: "End of the conference"
   "program":
     attend_conference: false
     workload:
+      average: "1-2 hours per week"
       start: "Six months before conference, 1-2 hours a week"
       peak: "Four months before the conference 4-5 hours per week for 4 weeks."
       end: "End of the conference"
   "steering":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "6 months before the conference, 1-2 hours per week"
       peak: "Onboarding for new committees and major decision process times, 3-4 hours a week"
       end: "End of the conference"
   "swag":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "1 month before the ticket sales"
       peak: "4 weeks before the conference, collecting final numbers for order"
       end: "Conference day"
   "video":
     attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "Three months before conference"
       peak: "During the conference"
       end: "Until all videos have been released"

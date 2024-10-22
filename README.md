@@ -15,20 +15,16 @@ Fork this repository and adapt the content to your needs.
 On the [GitHub page of this repository](https://github.com/PioneersHub/conference),
 click on the "Use this template" button at the upper right side.
 
-Select where you want to create the repository and give it a custom name, e.g. "conference3000".
+Select where you want to create the repository and give it a custom name.
+Best practice is to use an **all-lowercase** name with **hyphens** instead of spaces.
+Anything else will be tricky as GitHub pages in some parts is case-sensitive.
+
+Let's use "conference-3000" as an example.
+
 Once the repository is created, you can clone it to your local machine and start editing the content.
 
 ### Setting Up Your Conference
 
-These parts of the repository need to be customized to your conference:
-
-##### GitHub
-
-- [ ] Update the `README.md` with your conference name and description. Remove anything that is not relevant to your
-  conference. We appreciate if you keep the attribution section.
-- [ ] Update the `mkdocs.yml` with your conference name and description.
-- [ ] Update the `docs/` folder with your conference content.
--
 
 ## Attribution
 
@@ -95,8 +91,7 @@ people.
 Pioneers Hub is an organization dedicated to building and nurturing communities of experts in tech and research.
 The goal is to facilitate knowledge sharing, collaboration, and innovation.
 
-Check out the [Pioneers Hub GitHub repository](https://github.com/PioneersHub) to check more tools to build and maintain
-healthy communities.
+Check out the [Pioneers Hub GitHub repository](https://github.com/PioneersHub) to check more templates and tools
+like this to build and maintain healthy communities.
 
 ![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){ style="width:50%" }
-

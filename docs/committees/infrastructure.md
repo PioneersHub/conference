@@ -89,6 +89,8 @@ tasks or urgent issues that may arise.
 
 ### Timeline
 
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.infrastructure.workload.average}}
+
 :fontawesome-regular-calendar:  **start:** **start:**{{config.extra.committees.infrastructure.workload.start}}
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.infrastructure.workload.peak}}
@@ -97,6 +99,6 @@ tasks or urgent issues that may arise.
 
 ---
 
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

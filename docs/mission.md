@@ -50,7 +50,7 @@ We follow a set of principles we call "Zen for Community Organizers." It helps u
 
 Got questions? We've got answers! Reach out to us at {{config.extra.event.contact_email}}.
 
-[Apply to Volunteer Here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply to Volunteer Here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 Join us in creating an unforgettable event that celebrates knowledge, community, and the joy of coming together!
 
@@ -125,6 +125,6 @@ If you have any questions, feel free to reach out to info@pycon.de.
 
 We use a simple application form to gather information about potential volunteers.  
 
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

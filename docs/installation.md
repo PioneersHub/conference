@@ -9,12 +9,42 @@ hide:
 
 Fork the `PioneersHub/conference` repository and adapt everything to your needs.
 
-Feel free to suggest improvements or contribute to project
-by [opening an issue or pull request](https://github.com/PioneersHub/conference/pulls) at `PioneersHub/conference`.
+These parts of the repository need to be customized to your conference:
+
+##### GitHub
+
+- [ ] Update the `README.md` with your conference name and description to avoid confusion.
+  Remove anything that is not relevant to your conference.
+  We appreciate if you keep the _Community Playbooks by Pioneers Hub_ section at the bottom.
+- [ ] Update site configuration in the `mkdocs.yml`:
+    - [ ] site_name: Your conference name
+    - [ ] site_url: This is where your conference website will be
+      hosted: https://your-github-nick.github.io/conference-3000/
+    - [ ] site_author, site_description,
+    - [ ] repo_name: your-github-nick/conference-3000
+    - [ ] repo_url: https://github.com/your-github-nick/conference-3000
+    - [ ] nav: Leave this for now. This is only required if you remove, rearrange or add pages.
+    - [ ] copyright: Update with your name or organization.
+- [ ] Update the conference configuration, [see below for detailed instructions](#configuration)
+- [ ] Update the `pyproject.toml` file with your conference name and description.
+- [ ] Replace the conference logo to the `assets/images/` folder with the file name `social_card_logo.png`.
+- [ ] Follow the instructions in docs/installation.md to set up your [environment](#environment), see below.
+      This is required to build the documentation.
+- [ ] Create the website, see [Publishing below](#publishing).
+- [ ] The website is hosted on GitHub pages. Enable GitHub pages in the repository settings.
 
 ## Environment
 
-This project uses the Pixi package management.
+This project supports the great Pixi package management as well as a requirements.txt file
+if you prefer to use a virtual environment.
+
+```shell
+# requires uv installed, alternatively you can use any other python virtual environment
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+```
+
 Pixi supports Windows, macOS, and Linux.
 See the [Pixi documentation](https://pixi.sh/latest/) for more information how to install Pixi.
 
@@ -27,6 +57,9 @@ pixi install
 ### Configuration
 
 The template automatically publishes information based on the settings in the `config.yml` file.
+
+The configuration file is a crucial file especially for the timeline and committees. 
+It stores all dates, emails, links, etc. in **once place** and makes it easy to update.
 
 Configure your repository by editing the `config.yml` file.
 
@@ -56,13 +89,17 @@ event:
   start_date: "2025-04-23"
   end_date: "2025-04-26"
   location: "Somewhere, Germany"
-  apply_url: "https://example.com/apply"
+  apply_url_committees: "https://example.com/apply"
   contact_email: "info@contact.org"
 ``` 
 
 #### 4. Committees' details
 
-Outline the expected workloads and milestones for each committee via the configuration file.
+Outline the expected workloads and milestones for each committee via the configuration file. 
+Take your time to define the workload and milestones for each committee.
+
+At the start, give your best guess for the workload and milestones.
+This information is important so people interested in joining know what to expect.
 
 The dates are published at the bottom of the [committees](committees/index.md) pages.
 
@@ -70,20 +107,23 @@ The dates are published at the bottom of the [committees](committees/index.md) p
 committees:
   # Committee names must match the headers in the committees.md file
   # Expected workloads and milestones for each committee
-  "coc":  # key for the committee
+  "coc": # key for the committee
     requirements:
       attend_conference: true
     workload:
+      average: "1-2 hours per week"
       start: "start-date-here"
       peak: "During the conference"
       end: "Until all reports have been resolved"
 ``` 
+
 Example snippet from committee page:
+
 ```markdown
 ### Timeline
+
 :fontawesome-regular-calendar:  **start:**{{config.extra.committees.coc.workload.start}}
 ```
-
 
 ### Preview the Documentation
 
@@ -112,7 +152,11 @@ mkdocs serve
 
 ### Publishing
 
-The documentation website is hosted at GitHub pages.
+The documentation website resides in a separate branch called `gh-pages`.
+This branch is automatically updated by mkdocs.
+
+The documentation website is hosted at GitHub pages. 
+The documentation website is rendered if the `main` branch is updated. 
 
 To deploy:
 

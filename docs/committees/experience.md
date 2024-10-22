@@ -73,6 +73,8 @@ The workload for the Experience Committee will vary depending on the proximity t
 
 ### Timeline
 
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.experience.workload.average}}
+
 :fontawesome-regular-calendar:  **start:** **start:**{{config.extra.committees.experience.workload.start}}
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.experience.workload.peak}}
@@ -80,6 +82,6 @@ The workload for the Experience Committee will vary depending on the proximity t
 :fontawesome-solid-ranking-star: **finish** {{config.extra.committees.experience.workload.end}}
 
 ---
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---

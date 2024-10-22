@@ -67,6 +67,8 @@ environment is always a top priority.
 
 ### Timeline
 
+:fontawesome-solid-gauge:  **average:**{{config.extra.committees.coc.workload.average}}
+
 :fontawesome-regular-calendar:  **start:**{{config.extra.committees.coc.workload.start}}
 
 :fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.coc.workload.peak}}
@@ -74,6 +76,6 @@ environment is always a top priority.
 :fontawesome-solid-ranking-star: **finish** {{config.extra.committees.coc.workload.end}}
 
 ---
-[Apply here]({{config.extra.event.apply_url}}){ .md-button .md-button--primary }
+[Apply here]({{config.extra.event.apply_url_committees}}){:target="_blank" .md-button .md-button--primary }
 
 ---
