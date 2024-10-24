@@ -27,6 +27,7 @@ These parts of the repository need to be customized to your conference:
     - [ ] copyright: Update with your name or organization.
 - [ ] Update the conference configuration, [see below for detailed instructions](#configuration)
 - [ ] Update the `pyproject.toml` file with your conference name and description.
+- [ ] Update the [About](/docs/about.md) page with your conference name and description.
 - [ ] Replace the conference logo to the `assets/images/` folder with the file name `social_card_logo.png`.
 - [ ] Follow the instructions in docs/installation.md to set up your [environment](#environment), see below.
       This is required to build the documentation.
