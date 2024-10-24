@@ -94,4 +94,4 @@ The goal is to facilitate knowledge sharing, collaboration, and innovation.
 Check out the [Pioneers Hub GitHub repository](https://github.com/PioneersHub) to check more templates and tools
 like this to build and maintain healthy communities.
 
-![Pioneers Hub Logo](assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg){ style="width:50%" }
+![Pioneers Hub Logo](docs/assets/images/Pioneers-Hub-Logo-vereinfacht-inline.svg)
