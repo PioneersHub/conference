@@ -24,3 +24,14 @@ It does not make sense to call for volunteers too early.
 - Review and refine responsibilities for the venue
 - How many volunteers will we need?
 - Setup Tools for team to collaborate
+
+## Logo and Branding
+Prepare the logo and branding for the conference.
+You can reuse the logo from the last conference or start with a new or an alternative one.
+
+## Website
+Prepare the website for the announcement.
+You can reuse your website from the last conference or start with a landing page.
+
+## Social Media
+Updte the social media channels with the new conference dates and start promoting the conference.

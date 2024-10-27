@@ -13,8 +13,6 @@ field or eager to learn and grow with us, there’s a place for you on our team.
 
 The Committees
 
-Here’s the adjusted list with () and [] switched as requested:
-
 - :fontawesome-solid-shield: [Code of Conduct](code-of-conduct.md)
 - :fontawesome-solid-paper-plane: [Communication](communication.md)
 - :fontawesome-solid-universal-access: [Diversity](diversity.md)
