@@ -15,16 +15,24 @@ Committees are listed in [/committees](committees/index.md).
 - Review and refine roles and responsibilities
 - Review Committees and refine tasks
 - Setup Tools for team to collaborate
+- Reach out to potential committee members:
+  - Previous committee members
+  - Past attendees
+  - Public call on social media
 
 ## Call for Volunteers
 The call for people who help during the conference. 
 This call is usually done 6-8 weeks in before the conference.
 It does not make sense to call for volunteers too early.
 
-- Review and refine responsibilities for the venue
+- Review and refine responsibilities for the event
 - How many volunteers will we need?
 - Setup Tools for team to collaborate
-
+- Reach out to potential volunteers:
+  - Previous volunteers
+  - Past attendees
+  - Public call on social media
+  
 ## Logo and Branding
 Prepare the logo and branding for the conference.
 You can reuse the logo from the last conference or start with a new or an alternative one.
