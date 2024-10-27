@@ -34,4 +34,8 @@ Prepare the website for the announcement.
 You can reuse your website from the last conference or start with a landing page.
 
 ## Social Media
-Updte the social media channels with the new conference dates and start promoting the conference.
+Update the social media channels with the new conference dates and start promoting the conference.
+
+List of your social media channels:
+- foo
+- bar

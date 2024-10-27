@@ -30,22 +30,22 @@ nav:
   - Guidelines:
       - guidelines/index.md
       - Program:
-        - Call for Proposals: guidelines/call-for-proposals.md
-        - Submissions: guidelines/submissions.md
-        - Reviewer Guidelines: guidelines/reviewers.md
-        - Community Voting: guidelines/community-voting.md
+          - Call for Proposals: guidelines/call-for-proposals.md
+          - Submissions: guidelines/submissions.md
+          - Reviewer Guidelines: guidelines/reviewers.md
+          - Community Voting: guidelines/community-voting.md
       - Diversity:
-        - Grant-Applications: guidelines/grant-applications.md
-        - Grants-Guidelines: guidelines/grants.md
+          - Grant-Applications: guidelines/grant-applications.md
+          - Grants-Guidelines: guidelines/grants.md
       - Infrastructure:
-        - Infrastructure: guidelines/infrastructure.md
+          - Infrastructure: guidelines/infrastructure.md
       - Sponsoring:
-        - Sponsoring: guidelines/sponsoring.md
+          - Sponsoring: guidelines/sponsoring.md
       - Volunteers:
-        - Volunteers: guidelines/volunteers.md
-        - Call for Volunteers: guidelines/volunteers-call.md
+          - Volunteers: guidelines/volunteers.md
+          - Call for Volunteers: guidelines/volunteers-call.md
       - Video:
-        - Video-Guidelines: guidelines/video.md
+          - Video-Guidelines: guidelines/video.md
   - Office:
       - office/index.md
       - Communication: office/communication.md
