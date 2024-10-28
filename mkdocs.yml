@@ -39,6 +39,8 @@ nav:
           - Grants-Guidelines: guidelines/grants.md
       - Infrastructure:
           - Infrastructure: guidelines/infrastructure.md
+      - On-Site Operations:
+          - On-Site Operations: guidelines/on-site-ops.md
       - Sponsoring:
           - Sponsoring: guidelines/sponsoring.md
       - Volunteers:
