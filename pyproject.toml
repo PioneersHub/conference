@@ -1,6 +1,6 @@
 [project]
 name = "Conference"
-version = "0.9.3"
+version = "0.9.4"
 description = "Template for organizing a volunteer-driven conference."
 authors = [
     { name = "Alexander CS Hendorf", email = "alexander@pioneershub.org" }
