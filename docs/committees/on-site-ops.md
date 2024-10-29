@@ -7,46 +7,33 @@ icon: fontawesome/solid/people-group
 
 ## Mission
 
-The committee is responsible for putting together the program of the conference:
+The On-Site Operations Committee is responsible for ensuring smooth, efficient operations at the conference venue. 
+We coordinate all on-ground activities including registration, volunteer management, attendee assistance, 
+and room management. 
 
-* Talks
-* Tutorials
-* Panels
-* Keynotes
-
-The conference program is diverse in terms of representation and topics:
-
-* Range from beginner-friendly to advanced
-* Cover popular topics and new trends, but also consider important niche topics
-* Diverse in terms of speakers
-* Technical topics, Use Cases
-* Community, Diversity and Inclusion
-
-It's not just about delivering a great program, recordings are [released after the conference](video.md) so others can
-learn from them.
+Our goal is to create a seamless experience for all participants while 
+maintaining safety and comfort throughout the event.
 
 ## Committee Structure
 
-### Chair(s)
+### Chair
 
-One or multiple chairs are responsible for the committee and the program. They are the main contact for the Steering
-Committee. The chairs lead and organize the committee, they are responsible for keeping our standards and the
-milestones.
+The Chair(s) of the On-Site Operations Committee lead the planning and execution of all on-site activities. 
+They coordinate with other committees, manage the volunteer team, 
+and ensure all logistics run smoothly during the conference.
 
 ### Members
 
-A team of committee members from diverse backgrounds and experiences.
-
-### Reviewers
-
-Reviewers are not part of the committee, they help with the review process and are recruited by the Program Committee
-via an open call or invitation.
+A team of committee members who help plan and execute on-site operations, working together to manage various
+aspects of the conference's physical presence.
 
 ## Requirements
 
-* Strong organizational skills
-* Leadership experience
-* Dedication to diversity and inclusion
+- Strong organizational and people management skills
+- Ability to work well under pressure
+- Experience in event management (preferred but not required)
+- Excellent communication skills
+- Ability to be present for the entire duration of the conference
 
 ## Responsibilities
 
@@ -67,6 +54,9 @@ via an open call or invitation.
 
 - **Assist with Room Management:**  
   Ensure session rooms are not overcrowded, assist with session chairs, and help attendees find their sessions.
+
+- **Session Chairs:**  
+  Make sure that there is a dedicated session chair who announces the speaker and moderates the questions and answers..
 
 - **Collaborate with Other Committees:**  
   Coordinate with other committees, such as Program, Diversity, and Communication, to assist with on-site requirements

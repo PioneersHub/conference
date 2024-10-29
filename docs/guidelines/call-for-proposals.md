@@ -5,14 +5,14 @@ icon: fontawesome/solid/paper-plane
 
 # General Considerations
 
-Give concise instructions about the CfP with information what the event is looking for.
+We want to give the following instructions about the CfP with information what the event is looking for.
 
-Content related things to consider:
+Content related things we want to consider:
  - topics of interest
  - submission types (30-minute talks, 3-hour workshop, etc.)
  - levels of expertise (beginner, intermediate, advanced)
 
-Non-content related things to consider:
+Non-content related things we want to consider:
  - perks for accepted speakers (free ticket, travel reimbursement, etc.)
  - perks not to expected (no travel reimbursement, etc.) - _other conferences might offer this_
  - mentoring offers for first-time speakers
@@ -21,10 +21,10 @@ Non-content related things to consider:
 
 ## Policies
 
-Best discuss policies in the team before launching the CfP.
+We discussed policies in the team before launching the CfP.
 It's useful to have consistent policies settled beforehand and communicate them clearly to the submitters.
 
-Will you accept presentations that:
+We accept accept presentations that:
 
 - can only be delivered remotely?
 - have been given elsewhere already?

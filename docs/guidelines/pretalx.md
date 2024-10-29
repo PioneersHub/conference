@@ -41,9 +41,9 @@ Depending on your team size, you want to consider assigning different roles to y
 The super-admin invites the initial [Admins](#Admins) to the event.
 
 !!! tip "Recurring or multiple events"
-    If you run a yearly event, use the year as prefix for all teams for readability,
+    If you run a yearly event, use the year as prefix for all groups for readability,
     e.g., '2025-Admins' or '2025-Reviewers'
-    If you run multiple events, add a consistent prefix for the event.
+    If you run multiple events, add a consistent prefix to group representing the event.
 
 Go to Organiser/Event/Teams/
 
@@ -102,7 +102,7 @@ The only items to check are:
 
 - [x] Is a reviewer
 
-Review settings - **do check**:
+Review settings :
 
 - [x] Always hide speaker names
 
