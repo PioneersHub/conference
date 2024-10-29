@@ -30,7 +30,8 @@ nav:
   - Guidelines:
       - guidelines/index.md
       - Program:
-          - Call for Proposals: guidelines/call-for-proposals.md
+          - Call for Proposals (CfP): guidelines/call-for-proposals.md
+          - Pretalx for CfP: guidelines/pretalx.md
           - Submissions: guidelines/submissions.md
           - Reviewer Guidelines: guidelines/reviewers.md
           - Community Voting: guidelines/community-voting.md
@@ -72,6 +73,8 @@ theme:
   icon:
     logo: fontawesome/solid/users-rays
     annotation: material/arrow-right-circle
+    admonition:
+      tip: fontawesome/solid/hand-point-up
   language: en
   palette:
     primary: custom
@@ -100,7 +103,6 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.snippets:
       check_paths: true
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify

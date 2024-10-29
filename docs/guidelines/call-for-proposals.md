@@ -2,6 +2,43 @@
 title: Call for Proposals
 icon: fontawesome/solid/paper-plane
 ---
+
+# General Considerations
+
+Give concise instructions about the CfP with information what the event is looking for.
+
+Content related things to consider:
+ - topics of interest
+ - submission types (30-minute talks, 3-hour workshop, etc.)
+ - levels of expertise (beginner, intermediate, advanced)
+
+Non-content related things to consider:
+ - perks for accepted speakers (free ticket, travel reimbursement, etc.)
+ - perks not to expected (no travel reimbursement, etc.) - _other conferences might offer this_
+ - mentoring offers for first-time speakers
+ - diversity and inclusion efforts (grants, etc.)
+ - inclusion (e.g., childcare, accessibility)
+
+## Policies
+
+Best discuss policies in the team before launching the CfP.
+It's useful to have consistent policies settled beforehand and communicate them clearly to the submitters.
+
+Will you accept presentations that:
+
+- can only be delivered remotely?
+- have been given elsewhere already?
+- are available on video already?
+- are part of a sales pitch?
+- cannot be published on video afterward?
+
+Consider setting a policy and being explict about:
+
+- percentage of slots for beginner, intermediate, and advanced talks
+- percentage of slots for first-time speakers
+- accepting one presentation per speaker only
+
+
 # Call for Proposals: {{config.extra.event.event_name}}
 
 **Conference Dates: {{config.extra.event.start_date}} - {{config.extra.event.end_date}}**
