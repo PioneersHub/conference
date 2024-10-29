@@ -90,11 +90,11 @@ The workload varies depending on the phase of the conference:
 
 :fontawesome-solid-gauge:  **average:**{{config.extra.committees.on_site_operations.workload.average}}
 
-:fontawesome-regular-calendar:  **start:**{{config.extra.committees.on_site_operations.start}} 
+:fontawesome-regular-calendar:  **start:**{{config.extra.committees.on_site_operations.workload.start}} 
 
-:fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.on_site_operations.peak}}  
+:fontawesome-solid-heart-pulse: **peak** {{config.extra.committees.on_site_operations.workload.peak}}  
 
-:fontawesome-solid-ranking-star: **finish** {{config.extra.committees.on_site_operations.end}} 
+:fontawesome-solid-ranking-star: **finish** {{config.extra.committees.on_site_operations.workload.end}} 
 
 ---
 
