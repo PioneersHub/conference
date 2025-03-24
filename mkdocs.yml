@@ -38,6 +38,8 @@ nav:
       - Diversity:
           - Grant-Applications: guidelines/grant-applications.md
           - Grants-Guidelines: guidelines/grants.md
+      - Toolgarden:
+          - Tools: guidelines/tools.md
       - Infrastructure:
           - Infrastructure: guidelines/infrastructure.md
       - On-Site Operations:
