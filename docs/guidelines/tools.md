@@ -1,6 +1,6 @@
 ---
-title: Reviewer Guidelines
-icon: fontawesome/solid/screwdriver-wrench
+title: Toolzoo
+icon: fontawesome/solid/hippo
 ---
 # Tools Guidelines
 Tools and intersections used in open source community events.
@@ -24,3 +24,7 @@ Tools and intersections used in open source community events.
 9. [Certificate of attendance](https://github.com/PioneersHub/participation_certificate) for PDF document creation
 10. [Team page helper app](https://github.com/PioneersHub/team_page_helper_app) for adding team members to the website
     - creates json and makes a PR on the conference website
+
+# External Tools and Services
+
+1. Mailgun for transactional emails.
