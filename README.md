@@ -23,7 +23,9 @@ Let's use "conference-3000" as an example.
 
 Once the repository is created, you can clone it to your local machine and start editing the content.
 
-### Setting Up Your Conference
+## Conference Built on this Template
+
+🐍 [PyCon DE & PyData 2025](https://pioneershub.github.io/pyconde25-conference/), [conference website](https://2025.pycon.de)
 
 
 ## Attribution
