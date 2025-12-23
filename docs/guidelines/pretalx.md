@@ -19,7 +19,9 @@ The guidelines are based upon experience made with a team of:
 - 10 committe members
 - 30-50 reviewers
 
-Pretalx is actively being developed and provides [documentation](https://docs.pretalx.org/user/) on it's own. While this documentation does not describe all functionality it should be consulted if something in this document is outdated and not longer working.
+Pretalx is actively being developed and provides [documentation](https://docs.pretalx.org/user/) on it's own. While this
+documentation does not describe all functionality it should be consulted if something in this document is outdated and
+not longer working.
 
 ## Creating the Event
 
@@ -64,7 +66,9 @@ Do **not** check:
 - [ ] Can create events
 - [ ] Is a reviewer _(this is an implicit role anyway)_
 
-The **committee chairs** are usually the **admins**, as they know best about the team and the process.
+The **committee chairs** usually form part of the **admins** team, since they are the people who know the team and the
+process best. As certain elements of a Pretalx event can only be seen and edited by admins (e.g. handling tracks), it is
+also advisable to add extra committee members to the admins team if they are going to be responsible for Pretalx tasks.
 
 ### Program Committee
 
@@ -232,18 +236,45 @@ Some examples:
 
 ## Session Types
 
-Add descriptive session types, for example:
+Session types should be descriptive. To assist with this, Pretalx automatically displays the selected length as part of
+the session type.
 
-- 30-minute talk
-- 45-minute talk
-- 60-minute talk
-- 3-hour workshop
+If multiple session types are of the same kind but differ in length, descriptive adjectives should be used. For example, 
+"talk" for a standard 30-minute version and "talk (long)" for an extended 45-minute version.
+
+This is then displayed in Pretalx as follows:
+
+![Display of two session types in Pretalx. A short talk with 30 minutes and a long talk with 45 minutes.](../assets/images/guidelines/pretalx-cfp-1.png)
 
 **Make sure to set the duration for each type.**
 
-Some sessions are invited or organized not via the CfP. 
-Hidden types are useful for this, for example:
+### Protected Sessions
+Some sessions are organised or invited not via the CfP, but by the committee itself. These normally include: 
 
-- keynote
-- sponsored talk
-- panel
+- sponsored talks
+- keynotes
+- panels
+- invited talks
+- lightning talks 
+
+To prevent these session types from being selected in the CfP, the 'Require access code' option must be selected when
+creating the session type.
+
+## Access Codes
+Access codes allow sessions to be created outside of the regular CfP. Those provided with a code can create new
+proposals even after the deadline has expired or for session types that are not available as part of the normal CfP.
+The session creation process itself is identical for the end user to the normal CfP.
+
+New access codes can be crated at the bottom of the "Call for Proposals" menu. Following procedure is considered good
+practice:
+
+- For personalized access codes (e.g., sponsors) individual access codes should be created for each individual entity 
+    with a "Maximum uses" set to one.
+- Changing the beginning of the access code to something descriptive (e.g., "\<Sponsorname\>RestOfTheCode") allows 
+    easier tracking of who already has used their code.
+- Access codes should be as restrictive as possible, at minimum the session type must be selected.
+
+The following hints may prove useful:
+
+- If an access code has been used, opening the editing view of the access code provides a link to the talk(s) created with 
+    this code. If no talks are displayed, they have been deleted.
