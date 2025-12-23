@@ -25,7 +25,7 @@ Once the repository is created, you can clone it to your local machine and start
 
 ## Conference Built on this Template
 
-🐍 [PyCon DE & PyData 2025](https://pioneershub.github.io/pyconde25-conference/), [conference website](https://2025.pycon.de)
+🐍 PyCon DE & PyData 2025, [conference website](https://2025.pycon.de)
 
 
 ## Attribution
