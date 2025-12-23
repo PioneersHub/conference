@@ -13,11 +13,13 @@ icon: fontawesome/solid/person-walking-dashed-line-arrow-right
 These guidelines will help you set up the Call for Proposals (CfP) using Pretalx with best practices
 to help you get the most out of your CfP.
 
-The guidelines are based upon experice made with a team of:
+The guidelines are based upon experience made with a team of:
 
 - 2-3 program chairs
 - 10 committe members
 - 30-50 reviewers
+
+Pretalx is actively being developed and provides [documentation](https://docs.pretalx.org/user/) on it's own. While this documentation does not describe all functionality it should be consulted if something in this document is outdated and not longer working.
 
 ## Creating the Event
 
